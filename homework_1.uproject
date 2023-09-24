@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{82531A8F-49BB-C721-4970-5CAE2747B02A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "homework_1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
